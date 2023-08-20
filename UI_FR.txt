@@ -1,0 +1,4 @@
+UI_FR = {
+    UI_ClothingType_DutyBelt = "Ceinture de service",
+    UI_ClothingType_ChestWalkie = "Récepteur Radio de Poitrine",
+}
