@@ -1,0 +1,228 @@
+Sandbox_FR = {
+
+	Sandbox_STR = "Small Town First Responders",
+
+	Sandbox_STR_CustomZones = "Utiliser Zones Zombie STFR",
+	Sandbox_STR_CustomZones_tooltip = "Activer cette option pour utiliser les Zones Zombie STFR Personnalisées.",
+
+	Sandbox_STR_LootZones = "Utiliser Zones Loot STFR",
+	Sandbox_STR_LootZones_tooltip = "Activer cette option pour utiliser les Zones Loot STFR / Conteneurs Personnalisés.",
+
+	Sandbox_STR_CustomVehicleZones = "Utiliser Zones Véhicule Personnalisées",
+	Sandbox_STR_CustomVehicleZones_tooltip = "Activer cette option pour utiliser Zones Véhicule STFR Personnalisées.",
+
+	Sandbox_STR_STEVOnly = "Utiliser Véhicule STFR Seulement",
+	Sandbox_STR_STEVOnly_tooltip = "Activez cette option pour désactiver les objets d'origine et certains contenus modifiés de police / pompiers / services d'urgence.",
+
+	Sandbox_STR_TrueSTEV = "Utiliser Véhicule STFR Lore-Friendly Seulement",
+	Sandbox_STR_TrueSTEV_tooltip = "Activez cette option pour désactiver le contenu policier / pompier / services d'urgence inapproprié.",
+
+	Sandbox_STR_ZombieOverrides = "Remplacer les zombies",
+	Sandbox_STR_ZombieOverrides_tooltip = "Activez cette option pour remplacer les zombies d'origine police / feu / services d'urgence / prison.",
+
+	Sandbox_STR_WantSusceptibleOutfits = "Autoriser les zombies éligible",
+	Sandbox_STR_WantSusceptibleOutfits_tooltip = "Si cette option est désactivée, tous les zombies STFR éligible deviendront des zombies STFR réguliers. Ne fait rien si 'éligible' n'est pas activé!",
+
+	Sandbox_STR_VehicleOverrides = "Remplacer les Véhicules",
+	Sandbox_STR_VehicleOverrides_tooltip = "Activer cette option pour remplacer les véhicules d'origine et Filibuster Rhymes de police/pompiers/services d'urgence/prison.",
+
+	Sandbox_STR_DuffelLoot = "Autoriser les Sacs Marin",
+	Sandbox_STR_DuffelLoot_tooltip = "Activez cette option pour permettre aux sacs marin personnalisés de STFR d'apparaître.",
+
+	Sandbox_STR_VestRosewood = "Autoriser les gilets Shérif Rosewood",
+	Sandbox_STR_VestRosewood_tooltip = "Activez cette option pour que les gilets pare-balles apparaissent sur les zombies Shérif Rosewood.",
+
+	Sandbox_STR_VestRiverside = "Autoriser les gilets Police Riverside",
+	Sandbox_STR_VestRiverside_tooltip = "Activez cette option pour que les gilets pare-balles apparaissent sur les zombies Police Riverside.",
+
+	Sandbox_STR_VestMuldraugh = "Autoriser les gilets Police Muldraugh",
+	Sandbox_STR_VestMuldraugh_tooltip = "Activez cette option pour que les gilets pare-balles apparaissent sur les zombies Police Muldraugh.",
+
+	Sandbox_STR_VestWestPoint = "Autoriser les gilets Police WestPoint",
+	Sandbox_STR_VestWestPoint_tooltip = "Activez cette option pour que les gilets pare-balles apparaissent sur les zombies Police WestPoint.",
+
+	Sandbox_STR_VestJeffersonSD = "Autoriser les gilets Shérif Jefferson",
+	Sandbox_STR_VestJeffersonSD_tooltip = "Activez cette option pour que les gilets pare-balles apparaissent sur les zombies Shérif Jefferson.",
+
+	Sandbox_STR_VestJeffersonPD = "Autoriser les gilets Police Jefferson",
+	Sandbox_STR_VestJeffersonPD_tooltip = "Activez cette option pour que les gilets pare-balles apparaissent sur les zombies Police Jefferson.",
+
+	Sandbox_STR_VestLouisville = "Autoriser les gilets Police Louisville",
+	Sandbox_STR_VestLouisville_tooltip = "Activez cette option pour que les gilets pare-balles apparaissent sur les zombies Police Louisville.",
+
+	Sandbox_STR_VestMeade = "Autoriser les gilets Shérif Meade",
+	Sandbox_STR_VestMeade_tooltip = "Activez cette option pour que les gilets pare-balles apparaissent sur les zombies Shérif Meade.",
+
+	Sandbox_STR_TrunkOverrides = "Remplacer les Conteneurs",
+	Sandbox_STR_TrunkOverrides_tooltip = "Activez cette option pour remplacer certains articles d'origine dans les coffres et les conteneurs des véhicules. Ne fonctionne qu'une seule fois par véhicule/conteneur.",
+
+	Sandbox_STRS = "Small Town First Responders Zombies",
+
+	Sandbox_STRS_Dress = "Chance d'apparition Tenues Vestimentaires",
+	Sandbox_STRS_Dress_tooltip = "La chance d'apparition pour toutes les tenues vestimentaires zombies.",
+
+	Sandbox_STRS_Riot = "Chance d'apparition Uniformes anti-émeute",
+	Sandbox_STRS_Riot_tooltip = "La chance d'apparition pour toutes les tenues vestimentaires zombies Anti-Émeute.",
+
+	Sandbox_STRS_Ranger = "Chance d'apparition Rangers",
+	Sandbox_STRS_Ranger_tooltip = "La chance d'apparition pour toutes les tenues vestimentaires zombies Ranger.",
+
+	Sandbox_STRS_USPS = "Chance d'apparition Services Postaux",
+	Sandbox_STRS_USPS_tooltip = "La chance d'apparition pour toutes les tenues vestimentaires zombies Services Postaux.",
+
+	Sandbox_STRS_Security = "Chance d'apparition Services Sécurité",
+	Sandbox_STRS_Security_tooltip = "La chance d'apparition pour toutes les tenues vestimentaires zombies Services Sécurité.",
+
+	Sandbox_STRS_Other = "Chance d'apparition Autres Uniformes",
+	Sandbox_STRS_Other_tooltip = "La chance d'apparition pour toutes les tenues vestimentaires zombies Autres, comme les Juges.",
+
+	Sandbox_STRS_Duffel = "Chance d'apparition des Sacs Marins pour Zombies",
+	Sandbox_STRS_Duffel_tooltip = "La chance d'apparition pour que certains zombies STFR portent des sacs marins. Ne fait rien si Activer les sacs marins n'est pas actif!",
+
+	Sandbox_STRS_FireFormal = "Chance d'apparition Uniformes Formel Pompier",
+	Sandbox_STRS_FireFormal_tooltip = "La chance d'apparition pour tout zombies Pompier Formel.",
+
+	Sandbox_STRS_Fireman = "Chance d'apparition Uniformes Pompier",
+	Sandbox_STRS_Fireman_tooltip = "La chance d'apparition pour tout zombies Pompier.",
+
+	Sandbox_STRS_FiremanFull = "Chance d'apparition Uniformes Pompier Tenues Complètes",
+	Sandbox_STRS_FiremanFull_tooltip = "La chance d'apparition pour tout zombies Tenues Complètes Pompier.",
+
+	Sandbox_STRS_EMS = "Chance d'apparition Uniformes Services d'Urgence",
+	Sandbox_STRS_EMS_tooltip = "La chance d'apparition pour tout zombies Services d'urgence.",
+
+	Sandbox_STRS_MuldraughPD = "Chance d'apparition Police Muldraugh",
+	Sandbox_STRS_MuldraughPD_tooltip = "La chance d'apparition pour tout zombies Police Muldraugh.",
+
+	Sandbox_STRS_WestPointPD = "Chance d'apparition Police WestPoint",
+	Sandbox_STRS_WestPointPD_tooltip = "La chance d'apparition pour tout zombies Police WestPoint.",
+
+	Sandbox_STRS_MeadeSO = "Chance d'apparition Shérif Meade",
+	Sandbox_STRS_MeadeSO_tooltip = "La chance d'apparition pour tout zombies Shérif Meade.",
+
+	Sandbox_STRS_RiversidePD = "Chance d'apparition Police Riverside",
+	Sandbox_STRS_RiversidePD_tooltip = "La chance d'apparition pour tout zombies Police Riverside.",
+
+	Sandbox_STRS_RosewoodSD = "Chance d'apparition Shérif Rosewood",
+	Sandbox_STRS_RosewoodSD_tooltip = "La chance d'apparition pour tout zombies Shérif Rosewood.",
+
+	Sandbox_STRS_LouisvillePD = "Chance d'apparition Police Louisville",
+	Sandbox_STRS_LouisvillePD_tooltip = "La chance d'apparition pour tout zombies Police Louisville.",
+
+	Sandbox_STRS_JeffersonPD = "Chance d'apparition Police Jefferson",
+	Sandbox_STRS_JeffersonPD_tooltip = "La chance d'apparition pour tout zombies Police Jefferson.",
+
+	Sandbox_STRS_JeffersonSD = "Chance d'apparition Shérif Jefferson",
+	Sandbox_STRS_JeffersonSD_tooltip = "La chance d'apparition pour tout zombies Shérif Jefferson.",
+
+	Sandbox_STRS_KSP_Trooper = "Chance d'apparition Patrouille d'état du Kentucky",
+	Sandbox_STRS_KSP_Trooper_tooltip = "La chance d'apparition pour tout zombies Patrouille d'état du Kentucky.",
+
+	Sandbox_STRS_DOC = "Chance d'apparition Département Justice",
+	Sandbox_STRS_DOC_tooltip = "La chance d'apparition pour tout zombies Gardien de Prison.",
+
+	Sandbox_STRS_JeffersonInmate = "Chance d'apparition Détenus Jefferson",
+	Sandbox_STRS_JeffersonInmate_tooltip = "La chance d'apparition pour tout zombies Détenus Jefferson.",
+
+	Sandbox_STRS_MeadeInmateOrange = "Chance d'apparition Détenus Meade (Tenues Orange)",
+	Sandbox_STRS_MeadeInmateOrange_tooltip = "La chance d'apparition pour tout zombies Détenus Meade Population Générale.",
+
+	Sandbox_STRS_MeadeInmateYellow = "Chance d'apparition Détenus Meade (Tenues Jaune)",
+	Sandbox_STRS_MeadeInmateYellow_tooltip = "La chance d'apparition pour tout zombies Détenus Meade Faible Risque.",
+
+	Sandbox_STRS_MeadeInmateRed = "Chance d'apparition Détenus Meade (Tenues Rouge)",
+	Sandbox_STRS_MeadeInmateRed_tooltip = "La chance d'apparition pour tout zombies Détenus Meade Haute Sécurité.",
+
+	Sandbox_STRS_TandilPD = "Chance d'apparition Police Tandil",
+	Sandbox_STRS_TandilPD_tooltip = "La chance d'apparition pour tout zombies Police Tandil. Does nothing if Tandil isn't enabled!",
+
+	Sandbox_STRS_RavenCreekPD = "Chance d'apparition Police RavenCreek",
+	Sandbox_STRS_RavenCreekPD_tooltip = "La chance d'apparition pour tout zombies Police RavenCreek. Ne fait rien si RavenCreek n'est pas activé!",
+
+	Sandbox_STRS_RavenCreekInmate = "Chance d'apparition Détenus RavenCreek",
+	Sandbox_STRS_RavenCreekInmate_tooltip = "La chance d'apparition pour tout zombies Détenus RavenCreek. Ne fait rien si RavenCreek n'est pas activé!",
+
+	Sandbox_STEV = "Small Town First Responders Vehicles",
+
+	Sandbox_STEV_Meade = "Chance d'apparition Shérif Meade County",
+	Sandbox_STEV_Meade_tooltip = "La chance d'apparition pour véhicules Shérif Meade County.",
+
+	Sandbox_STEV_Riverside = "Chance d'apparition Police Riverside",
+	Sandbox_STEV_Riverside_tooltip = "La chance d'apparition pour véhicules Police Riverside.",
+
+	Sandbox_STEV_Rosewood = "Chance d'apparition Shérif Rosewood",
+	Sandbox_STEV_Rosewood_tooltip = "La chance d'apparition pour véhicules Shérif Rosewood.",
+
+	Sandbox_STEV_WestPoint = "Chance d'apparition Police WestPoint",
+	Sandbox_STEV_WestPoint_tooltip = "La chance d'apparition pour véhicules Police WestPoint.",
+
+	Sandbox_STEV_Muldraugh = "Chance d'apparition Police Muldraugh",
+	Sandbox_STEV_Muldraugh_tooltip = "La chance d'apparition pour véhicules Police Muldraugh.",
+
+	Sandbox_STEV_JCSD = "Chance d'apparition Shérif Jefferson County",
+	Sandbox_STEV_JCSD_tooltip = "La chance d'apparition pour véhicules Shérif Jefferson County.",
+
+	Sandbox_STEV_JCPD = "Chance d'apparition Police Jefferson County",
+	Sandbox_STEV_JCPD_tooltip = "La chance d'apparition pour véhicules Police Jefferson County.",
+
+	Sandbox_STEV_KSP = "Chance d'apparition Police d'état Kentucky",
+	Sandbox_STEV_KSP_tooltip = "La chance d'apparition pour véhicules Police d'état du Kentucky.",
+
+	Sandbox_STEV_Louisville = "Chance d'apparition Police Louisville",
+	Sandbox_STEV_Louisville_tooltip = "La chance d'apparition pour véhicules Police Louisville.",
+
+	Sandbox_STEV_Rangers = "Chance d'apparition Ranger",
+	Sandbox_STEV_Rangers_tooltip = "La chance d'apparition pour véhicules Ranger.",
+
+	Sandbox_STEV_USPS = "Chance d'apparition Services Postaux",
+	Sandbox_STEV_USPS_tooltip = "La chance d'apparition pour véhicules Services Postaux.",
+
+	Sandbox_STEV_JCDOC = "Chance d'apparition Département Justice Jefferson County",
+	Sandbox_STEV_JCDOC_tooltip = "La chance d'apparition pour véhicules Département Justice Jefferson County.",
+
+	Sandbox_STEV_MCDOC = "Chance d'apparition Département Justice Meade County",
+	Sandbox_STEV_MCDOC_tooltip = "La chance d'apparition pour véhicules Département Justice Meade County.",
+
+	Sandbox_STEV_EMS = "Chance d'apparition Ambulance",
+	Sandbox_STEV_EMS_tooltip = "La chance d'apparition pour Ambulances STFR.",
+
+	Sandbox_STEV_RosewoodFire = "Chance d'apparition Pompier Rosewood",
+	Sandbox_STEV_RosewoodFire_tooltip = "La chance d'apparition pour véhicules Pompier Rosewood.",
+
+	Sandbox_STEV_LouisvilleFire = "Chance d'apparition Pompier Louisville",
+	Sandbox_STEV_LouisvilleFire_tooltip = "La chance d'apparition pour véhicules Pompier Louisville.",
+
+	Sandbox_STEV_MeadeFire = "Chance d'apparition Pompier Meade County",
+	Sandbox_STEV_MeadeFire_tooltip = "La chance d'apparition pour véhicules Pompier Meade County.",
+
+	Sandbox_STEV_BankTruck = "Chance d'apparition Transport de Fond",
+	Sandbox_STEV_BankTruck_tooltip = "La chance d'apparition pour Camion Transport de Fond.",
+
+	Sandbox_STEV_FSwat = "Chance d'apparition Divers",
+	Sandbox_STEV_FSwat_tooltip = "La chance d'apparition pour Camions du SWAT 'Filibuster Rhymes, Military And Police Used Car' dans les zones de police. Ne fait rien si 'Filibuster Rhymes Used Cars' et/ou 'Military And Police Used Car' ne sont pas activés!",
+
+	Sandbox_STEV_TDPD = "Chance d'apparition Police Tandil",
+	Sandbox_STEV_TDPD_tooltip = "La chance d'apparition pour véhicules Police Tandil. Ne fait rien si Tandil n'est pas activé!",
+
+	Sandbox_STEV_TDFD = "Chance d'apparition Pompier Tandil",
+	Sandbox_STEV_TDFD_tooltip = "La chance d'apparition pour véhicules Pompier Tandil. Ne fait rien si Tandil n'est pas activé!",
+
+	Sandbox_STEV_RCRPD = "Chance d'apparition Police RavenCreek",
+	Sandbox_STEV_RCRPD_tooltip = "La chance d'apparition pour véhicules Police RavenCreek. Ne fait rien si RavenCreek n'est pas activé!",
+
+	Sandbox_STEV_RCRFD = "Chance d'apparition Pompier RavenCreek",
+	Sandbox_STEV_RCRFD_tooltip = "La chance d'apparition pour véhicules Pompier RavenCreek. Ne fait rien si RavenCreek n'est pas activé!",
+
+	Sandbox_STEV_RCRDOC = "Chance d'apparition Département Justice RavenCreek",
+	Sandbox_STEV_RCRDOC_tooltip = "La chance d'apparition pour véhicules Département Justice RavenCreek. Ne fait rien si RavenCreek n'est pas activé!",
+
+	Sandbox_STEV_SRate = "Chance d'apparition",
+	Sandbox_STEV_SRate_tooltip = "La probabilité globale qu'un véhicule STFR apparaisse.",
+
+	Sandbox_STEV_NChance = "Chance d'apparition Normal",
+	Sandbox_STEV_NChance_tooltip = "La probabilité globale qu'un véhicule normal apparaisse dans une zone de véhicules STFR.",
+
+	Sandbox_STEV_VCars = "Models d'origine",
+	Sandbox_STEV_VCars_tooltip = "Activez cette option pour permettre aux véhicules STFR avec des modèles d'origine d'apparître dans les parkings. N'affecte PAS les scènes de véhicules! Ne supprime PAS non plus les skins ajoutés!",
+
+}
