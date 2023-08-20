@@ -1,0 +1,7 @@
+IG_UI_FR = {
+
+	IGUI_VehicleNameVan_jeffersondoc = "Franklin Valuline",
+	IGUI_VehicleNameVan_meadedoc = "Franklin Valuline",
+	IGUI_VehicleName87gmcarmouredcar = "Camion Blindé",
+
+}
