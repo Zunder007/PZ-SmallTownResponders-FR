@@ -56,6 +56,21 @@ Sandbox_FR = {
 	Sandbox_STR_TrunkOverrides = "Remplacer les Conteneurs",
 	Sandbox_STR_TrunkOverrides_tooltip = "Activez cette option pour remplacer certains articles d'origine dans les coffres et les conteneurs des véhicules. Ne fonctionne qu'une seule fois par véhicule/conteneur.",
 
+	Sandbox_STR_VestGreenport = "Autoriser les gilets Police Greenport",
+	Sandbox_STR_VestGreenport_tooltip = "Activez cette option pour que les gilets pare-balles apparaissent sur les zombies Police Greenport",
+
+	Sandbox_STR_VestTandil = "Autoriser les gilets Police Tandil",
+	Sandbox_STR_VestTandil_tooltip = "Activez cette option pour que les gilets pare-balles apparaissent sur les zombies Police Tandil",
+
+	Sandbox_STR_VestRavenCreek = "Autoriser les gilets Police RavenCreek",
+	Sandbox_STR_VestRavenCreek_tooltip = "Activez cette option pour que les gilets pare-balles apparaissent sur les zombies Police RavenCreek",
+
+	Sandbox_STRS_GreenportPD = "Chance d'apparition Police Greenport",
+	Sandbox_STRS_GreenportPD_tooltip = "La chance d'apparition pour tout zombies Police Greenport. Ne fait rien si Greenport n'est pas activé !",
+
+	Sandbox_STEV_GPPD = "Chance d'apparition Police Greenport",
+	Sandbox_STEV_GPPD_tooltip = "La chance d'apparition pour toutes voitures Police Greenport. Ne fait rien si Greenport n'est pas activé !",
+
 	Sandbox_STRS = "Small Town First Responders Zombies",
 
 	Sandbox_STRS_Dress = "Chance d'apparition Tenues Vestimentaires",
