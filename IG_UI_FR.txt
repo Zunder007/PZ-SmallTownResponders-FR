@@ -8,6 +8,7 @@ IG_UI_FR = {
 	IGUI_VehicleNameprisonbus_ravencreek = "Bus Pénitentiaire",
 	IGUI_VehicleName86econoline_jefferson = "",
 	IGUI_VehicleName86econoline_meade = "",
+	IGUI_VehicleName86econoline_greenport = "",
 	IGUI_VehicleName92wrangler_USPS = "",
 	IGUI_VehicleNameVan_ravencreekdoc = "",
 	IGUI_VehicleNameprisonbus_meade = "Bus Pénitentiaire",
